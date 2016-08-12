@@ -13,7 +13,7 @@ Link
 
 Image
 ----
-  ![local img]()
+  ![local img](/img/img1.png)
 
 Table
 ----
