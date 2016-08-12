@@ -13,11 +13,11 @@ Link
 
 Image
 ----
-  ![local img](/img/img1.png)
+  ![local img](img/img1.png)
 
 Table
 ----
-  | AAAAA | BBBBB | CCCCC |
+  |   A   |   B   |   C   |
   | ----- |:-----:| -----:|
   | R1    | R2    | R3    |
   | S1    | S2    | S3    |
