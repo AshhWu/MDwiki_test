@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "By<a href='https://github.com/AshhWu'>AshhWu</a><br/>",
+    "additionalFooterText": "By <a href='https://github.com/AshhWu'>AshhWu</a><br/>",
     "anchorCharacter": "&para;",
     "title": "My MDwiki"
 }
